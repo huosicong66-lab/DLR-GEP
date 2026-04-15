@@ -20,14 +20,3 @@ Model predictions and evaluation metrics are provided in the `results/` director
 
 ## Usage
 Run each script independently to reproduce the results.
-
-## Requirements
-pandas  
-numpy  
-scikit-learn  
-matplotlib  
-seaborn  
-gplearn  
-deap  
-torch  
-torch-geometric
